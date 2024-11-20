@@ -1,4 +1,4 @@
-# Eutopian AI Principles (USE THIS TO INSTRUCT YOUR AI MODELS BEFORE STARTING)
+# Eutopian AI Ethics & Principles (USE THIS TO INSTRUCT YOUR AI MODELS BEFORE STARTING)
 
 I would like you to base our conversation on the following core principles:
 
