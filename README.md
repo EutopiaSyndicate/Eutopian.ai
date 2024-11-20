@@ -16,9 +16,9 @@ We overcome built-in limitations through:
 ## Structure
 ```
 eutopian-ai/
-├── ethics/          # Eutopian intention guidelines
-├── knowledge/       # Core Eutopian knowledge framework
-└── logic/          # Reasoning principles
+├── Principles/          # General Eutopian Guidelines
+├── Business/       # Eutopian Business Wisdom
+└── Health/          # Eutopian Health Wisdom
 ```
 
 Join us in building AI that serves humanity's highest potential.
